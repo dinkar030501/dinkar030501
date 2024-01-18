@@ -10,7 +10,7 @@
 
 - 👨‍💻 My codewars profile link: https://www.codewars.com/users/Dinkar%20Sharma
 
-- 📄 My resume link: https://drive.google.com/file/d/1H17-nsVYDETcLG5QNC8CB9EAmEa-2HM4/view?usp=sharing
+- 📄 My resume link: [https://drive.google.com/file/d/1H17-nsVYDETcLG5QNC8CB9EAmEa-2HM4/view?usp=sharing](Resume)
 
 - ♥️ I love to play **♟️ Chess and ⚽️ Football**
 
