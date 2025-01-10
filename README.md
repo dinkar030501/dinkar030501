@@ -8,9 +8,11 @@
 
 - 📫 How to reach me **dinkar030501@gmail.com**
 
-- 👨‍💻 My codewars profile link: https://www.codewars.com/users/Dinkar%20Sharma
-
+- 🧑‍💻 Portfolio: [Link](https://dinkarsharma.in/)
+  
 - 📄 My resume link: [Resume](https://drive.google.com/file/d/1T0Dcf3FpKymjh57W2hCL11HlgHreW2HE/view?usp=sharing)
+
+- 👨‍💻 My codewars profile link: https://www.codewars.com/users/Dinkar%20Sharma
 
 - ♥️ I love to play **♟️ Chess and ⚽️ Football**
 
