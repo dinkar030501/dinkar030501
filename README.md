@@ -17,7 +17,7 @@
 - ♥️ I love to play **♟️ Chess and ⚽️ Football**
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dinkar030501&theme=dark" alt="dinkar030501" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dinkar030501&theme=dark" alt="GitHub Streak" /></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinkar030501&show_icons=true&theme=dracula&locale=en" alt="dinkar030501" /></p>
 
