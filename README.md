@@ -17,15 +17,14 @@
 - ♥️ I love to play **♟️ Chess and ⚽️ Football**
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinkar030501&theme=dark" alt="dinkar030501" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dinkar030501&theme=dark" alt="dinkar030501" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinkar030501&show_icons=true&theme=dracula&locale=en" alt="dinkar030501" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dinkar-sharma-frontend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinkar-sharma-frontend" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dinkar-sharma-fullstack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinkar-sharma-fullstack" height="30" width="40" /></a>
 <a href="https://instagram.com/dinkar.s0305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinkar.s0305" height="30" width="40" /></a>
 </p>
 
