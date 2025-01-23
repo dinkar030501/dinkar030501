@@ -10,7 +10,7 @@
 
 - 🧑‍💻 Portfolio: [Link](https://dinkarsharma.in/)
   
-- 📄 My resume link: [Resume](https://drive.google.com/file/d/1T0Dcf3FpKymjh57W2hCL11HlgHreW2HE/view?usp=sharing)
+- 📄 My resume link: [Resume](https://drive.google.com/file/d/19IVgL4U3YIouROHj95WvCM7Tdez2YFu3/view?usp=sharing)
 
 - 👨‍💻 My codewars profile link: https://www.codewars.com/users/Dinkar%20Sharma
 
